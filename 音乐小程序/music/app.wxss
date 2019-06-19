@@ -1,0 +1,9 @@
+page{
+  font-size: 14px;
+  color: #121212;
+}
+.substr{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
